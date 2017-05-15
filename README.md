@@ -2,7 +2,6 @@
 The slides deck contains the slides for the talk at the Nextbuild Eindhoven (2017-05-20).
 
 - You can view the slides via GitHub static pages [here](http://npalm.github.io/graphql-slides-20170520).
-- Or just run them in a conainter `docker run -p 80:80 npalm/ehv-meetup-slides:20160920`
 
 ## slides
 For the slides we use the [RevealJS](https://github.com/hakimel/reveal.js/) framework.
